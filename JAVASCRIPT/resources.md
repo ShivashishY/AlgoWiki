@@ -111,6 +111,7 @@ category: Languages
 - http://www.joezimjs.com/
 - http://blog.ponyfoo.com/
 - http://rmurphey.com/
+- https://flaviocopes.com/
 - https://www.valentinog.com/blog/redux/
 
 #### Blogs - Multiple Authors
@@ -200,3 +201,4 @@ category: Languages
 - http://www.quora.com/What-are-the-best-resources-to-learn-Node-js
 - https://github.com/bolshchikov/js-must-watch
 - https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
+- https://www.javatpoint.com/javascript-tutorial
